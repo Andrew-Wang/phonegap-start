@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Twinium Mobile</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A build file for Twinium Mobile with PhoneGap development and build.phonegap.com
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.kooeu.com"
+		email="andrew@kooeu.com">
+		Andrew Wang
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
